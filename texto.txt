@@ -2,3 +2,7 @@ Olá mundo do GIT
 Ola do mudo da programação
 
 Este texto foi feito exclusivo para o GitHub
+
+Este texto foi feito exclusivo para o Git
+
+Utilizando o comando Git para atualizar o repositório local (Git) com as novas atualização feita no repositório remoto (GitHub) 
