@@ -1,0 +1,6 @@
+# Ignorando a pasta node_modules
+node_modules
+
+# Ignorando todos os arquivo .env e .pdf
+*.env
+*.pdf
