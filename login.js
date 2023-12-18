@@ -12,3 +12,5 @@ String.prototype.reverseText = function() {
 };
 
 console.log('Meu nome é Fernando Santos!'.reverseText());
+
+/* Alternando um pequeno texto */
