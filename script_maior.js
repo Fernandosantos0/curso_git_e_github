@@ -1,3 +1,4 @@
+/* Função que retorna o maior número dentro de uma lista */
 const maiorNumero = (...numeros) => {
     const maior = numeros.reduce((ac, num) => {
         if(num > ac) {
